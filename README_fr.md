@@ -1,49 +1,19 @@
 # Présentation du jeu battle_game
-![alt text](C:\VG\php\symfony\slamquiz\assets\screenshot_home1.jpg)
+![alt text](https://github.com/VirgilG6/Battle_game/blob/master/assets/battle%20game.png)
 
 ## Installation
-1. Créer un espace de stockage sur votre ordinateur (exemple: quizz):
+1. Créer un espace de stockage sur votre ordinateur (exemple: battle_game):
 ```
-cd quizz
+cd battle_game
 ```
 
 2. Cloner le projet en utilisant la commande suivante: 
 ```
-git clone https://github.com/VirgilG6/slamquiz.git
+git clone https://github.com/VirgilG6/Battle_game.git
 ```
 
-3. Installer composer (si vous ne l'avez pas suivez ce lien: https://getcomposer.org/download/): 
-```
-composer install
-```
+## Quel est son but ?
+Faire des révisions sur le PHP tout en s'amusant pour que ce soit plus ludique.
 
-4. Copier le fichier .env et renommer-le en .env.local
-
-5. Remplacer db_user, db_password et db_name par vos données
-```
-DATABASE_URL=mysql://db_user:db_password@127.0.0.1:3306/db_name
-```
-
-6. Démarer le serveur avec la commande:
-```
-php bin/console server:run
-```
-
-7. Ouvrir la page index sur un navigateur:
-```
-localhost:8000
-```
-
-8. Compte existant:
-```
-Identifiant: User
-Mot de passe: 123456
-
-Identifiant: Admin
-Mot de passe: 123456
-
-Identifiant: Superadmin
-Mot de passe: 123456
-
-Le mot de passe est le même car c'était pour tester
-```
+## Qu'est-ce qu'on a apprit ?
+On a apprit à créer des personnages et des compétences comme la force, les dégâts, l'expérience et les niveaux et à les gérer.
