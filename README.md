@@ -4,7 +4,7 @@
 ## Installation
 1. Create storage space on your computer:
 ```
-cd temp
+cd battle_game
 ```
 
 2. Clone the project using the following command:
