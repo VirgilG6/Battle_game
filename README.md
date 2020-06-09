@@ -1,4 +1,4 @@
-# Presentation of the software slamquiz
+# Presentation of the game battle_game
 ![alt text](https://github.com/VirgilG6/Battle_game/blob/master/assets/battle_game.png)
 
 ## Installation
