@@ -16,4 +16,4 @@ git clone https://github.com/VirgilG6/Battle_game.git
 Faire des révisions sur le PHP tout en s'amusant pour que ce soit plus ludique.
 
 ## Qu'avons nous appris ?
-On a apprit à créer des personnages et des compétences comme la force, les dégâts, l'expérience et les niveaux et à les gérer.
+Nous avons appris à créer des personnages et des compétences comme la force, les dégâts, l'expérience et les niveaux et à les gérer.
