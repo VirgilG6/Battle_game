@@ -1,5 +1,5 @@
 # Présentation du jeu battle_game
-![alt text](https://github.com/VirgilG6/Battle_game/blob/master/assets/battle%20game.png)
+![alt text](https://github.com/VirgilG6/Battle_game/blob/master/assets/battle_game.png)
 
 ## Installation
 1. Créer un espace de stockage sur votre ordinateur (exemple: battle_game):

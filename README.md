@@ -1,5 +1,5 @@
 # Presentation of the software slamquiz
-![alt text](https://github.com/VirgilG6/Battle_game/blob/master/assets/battle%20game.png)
+![alt text](https://github.com/VirgilG6/Battle_game/blob/master/assets/battle_game.png)
 
 ## Installation
 1. Create storage space on your computer:
